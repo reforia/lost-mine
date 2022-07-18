@@ -1,0 +1,4 @@
+{"name":"Heros","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"88f0Uo6D32lmhWgC"}
+{"name":"NPC","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"OYYhH8EiQ1w221Ct"}
+{"name":"Temporary Combatants","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"TC2w2aucOKLmBPjB"}
+{"name":"CragmawHideout","type":"Actor","parent":"TC2w2aucOKLmBPjB","sorting":"a","sort":0,"color":null,"flags":{},"_id":"h9kRELhKD3Zk6dJN"}
